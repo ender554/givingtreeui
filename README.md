@@ -21,3 +21,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 update
+
+This is the front end portion of the app whose trello board can be found here
+
+[givingtreetrello](https://trello.com/b/YQah8QjV/giving-tree)
